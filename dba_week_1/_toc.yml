@@ -1,0 +1,7 @@
+root: docs/index
+entries:
+- file: docs/module1
+- file: docs/module2
+- file: docs/module3
+
+
