@@ -3,6 +3,8 @@
 
 # # Literature Search & Review September 2021
 # 
+# Interesting Jupyter URL: https://elc.github.io/posts/jupyter-publishing/
+# 
 # ```{figure} /_static/module2/LiteratureSearchExercise.png
 # :scale: 70%
 # ```
